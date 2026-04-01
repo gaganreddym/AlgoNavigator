@@ -2,7 +2,7 @@
 Built an interactive graph traversal visualizer for real-time exploration of pathfinding algorithms
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Interactive Grid Editor**
   - Paint walls with click-and-drag
@@ -27,7 +27,7 @@ Built an interactive graph traversal visualizer for real-time exploration of pat
 
 ---
 
-## 🖥️ Screenshots Gallery
+##  Screenshots Gallery
 
 | ![Tutorial Mode](./assets/screenshots/tutorial.webp) | ![A* Algorithm](./assets/screenshots/A-star.webp) |
 |----------------------------------------------------|-------------------------------------------------|
@@ -43,9 +43,9 @@ Built an interactive graph traversal visualizer for real-time exploration of pat
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
-### Option 1: Local Installation
+### Local Installation
 ```bash
 git clone https://github.com/gaganreddym/AlgoNavigator.git
 cd AlgoNavigator
